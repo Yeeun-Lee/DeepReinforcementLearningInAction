@@ -2,6 +2,22 @@
 
 Code Snippets from the [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action) book from Manning, Inc
 
+## CONTENTS
+**<<PART 1: FOUNDATIONS>>**
+* Chapter 1 - What is Reinforcement Learning?
+* chapter 2 - Modeling Reinforcement Learning Problems : Markov Decision Processes
+* chapter 3 - Predicting the best states and actions : Deep Q-Networks
+* chapter 4 - Learning to pick the best policy : Policy Gradient Methods
+* chapter 5 - Tracking more complex problems with actor-critic methods
+
+**<<PART 2: ABOVE AND BEYOND>>**
+* chapter 6 - Alternative optimization methods: Evolutionary Algorithms
+* chapter 7 - Distributional DQN: Getting the full story
+* chapter 8 - Curiosity-driven Exploration
+* chapter 9 - Multi-Agent Reinforcement Learning
+* chapter 10 - Interpretable Reinforcement Learning: Attention and Relational Models
+* chapter 11 - In Conclusion: A Review and Roadmap
+
 ## How this is Organized
 
 The code snippets, listings, and projects are all embedded in Jupyter Notebooks
